@@ -1,3 +1,6 @@
+# Warning
+No more mantained
+
 # react-native-fabric
 A React Native library for Fabric, Crashlytics and Answers
 
